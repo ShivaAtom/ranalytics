@@ -1,3 +1,4 @@
+![Texto alternativo](Git/ranalitycs.png)
 # RANALYTICS
 
 [![Build: R-CMD-check](https://github.com/ShivaAtom/ranalytics/actions/workflows/r-check.yml/badge.svg)](https://github.com/ShivaAtom/ranalytics/actions)
