@@ -1,5 +1,0 @@
----
-title: "PracticaUno"
-output: html_document
----
-
