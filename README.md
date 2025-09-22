@@ -1,4 +1,5 @@
-![Texto alternativo](Git/ranalitycs.png)
+<img src="Git/ranalytics.png" alt="Mi imagen" width="300" />
+
 # RANALYTICS
 
 [![Build: R-CMD-check](https://github.com/ShivaAtom/ranalytics/actions/workflows/r-check.yml/badge.svg)](https://github.com/ShivaAtom/ranalytics/actions)
